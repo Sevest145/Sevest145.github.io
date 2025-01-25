@@ -80,7 +80,7 @@ function isEmpty(value){
 
 function forwardToId(params){
 
-    location.href = "/Sevest145/id?" + params
+    location.href = "/id?" + params
 
 }
 
